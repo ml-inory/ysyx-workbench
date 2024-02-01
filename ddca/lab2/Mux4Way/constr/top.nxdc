@@ -1,0 +1,8 @@
+top=Mux4Way
+
+a (SW0)
+b (SW1)
+c (SW2)
+d (SW3)
+sel (SW5, SW4)
+y (LD0)

@@ -1,0 +1,8 @@
+top=Mux4Way
+
+y (SW1, SW0)
+x0 (SW5)
+x1 (SW4)
+x2 (SW3)
+x3 (SW2)
+f (LD15)

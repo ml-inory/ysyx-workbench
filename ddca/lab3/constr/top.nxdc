@@ -1,0 +1,6 @@
+top=top
+
+a (SW3, SW2, SW1, SW0)
+b (SW7, SW6, SW5, SW4)
+overflow (LD0)
+h (SEG0A, SEG0B, SEG0C, SEG0D, SEG0E, SEG0F, SEG0G, DEC0P)

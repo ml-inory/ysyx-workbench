@@ -1,0 +1,11 @@
+top=top
+
+left (SW2)
+rst (SW1)
+right (SW0)
+LA (LD3)
+LB (LD4)
+LC (LD5)
+RA (LD2)
+RB (LD1)
+RC (LD0)

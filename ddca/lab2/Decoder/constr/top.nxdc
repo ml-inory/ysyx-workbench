@@ -1,0 +1,4 @@
+top=Decoder
+
+x (SW1, SW0)
+y (LD3, LD2, LD1, LD0)

@@ -1,0 +1,6 @@
+top=Mux
+
+a (SW0)
+b (SW1)
+sel (SW2)
+y (LD0)
